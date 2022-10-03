@@ -10,7 +10,7 @@ Image Classifiers are used in the field of computer vision to identify the conte
 building an image classification model that can automatically detect which kind of vehicle delivery drivers have, in order to route them to the correct loading bay and orders and ship a scalable and safe model.
 
 ## Project Steps Overview
-Step 1: Data staging
-Step 2: Model training and deployment
-Step 3: Lambdas and step function workflow
-Step 4: Testing and evaluation
+1. Data staging
+2. Model training and deployment
+3. Lambdas and step function workflow
+4. Testing and evaluation
